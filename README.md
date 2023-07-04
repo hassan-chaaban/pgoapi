@@ -8,7 +8,7 @@ It allows automatic parsing of requests/responses by finding the correct protobu
  * I don't play pokemon go !
  * No bot/farming code included !
 
-## Feature Support
+## Feature Support 
  * Python 2 and 3
  * Google/PTC auth
  * Address parsing for GPS coordinates

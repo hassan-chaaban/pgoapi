@@ -23,7 +23,7 @@ It allows automatic parsing of requests/responses by finding the correct protobu
 ## Documentation
 Documentation is available at the github [pgoapi wiki](https://wiki.pogodev.org).
 
-## Requirements
+## Requirements 
  * Python 2 or 3
  * requests
  * protobuf (>=3)
